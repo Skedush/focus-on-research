@@ -11,8 +11,12 @@
             "id": "00a6e6e5ba2c2c2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hello World.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Hello World.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Hello World.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Hello World.md"
+          }
         }
       }
     ],
@@ -123,7 +131,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00a6e6e5ba2c2c2d",
+  "active": "9913ef54a79a20f2",
   "lastOpenFiles": [
     "Hello World.md"
   ]
