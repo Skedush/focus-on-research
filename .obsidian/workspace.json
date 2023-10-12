@@ -15,7 +15,7 @@
               "state": {
                 "file": "软考-系统工程师/系统工程/系统工程概念.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
