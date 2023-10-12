@@ -8,7 +8,15 @@
       "key": "U"
     }
   ],
-  "obsidian-git:commit-specified-message": [
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod",
