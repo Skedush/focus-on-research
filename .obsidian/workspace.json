@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软考-系统工程师/系统工程/系统工程概念.md",
+                "file": "软考-系统架构设计师/系统工程/系统工程概念.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考-系统工程师/系统工程/系统工程概念.md",
+                "file": "软考-系统架构设计师/系统工程/系统工程概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考-系统工程师/系统工程/系统工程概念.md",
+                "file": "软考-系统架构设计师/系统工程/系统工程概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考-系统工程师/系统工程/系统工程概念.md"
+                "file": "软考-系统架构设计师/系统工程/系统工程概念.md"
               }
             }
           }
@@ -145,12 +145,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68b3dcc56b4fa94c",
+  "active": "afd60950ee75be12",
   "lastOpenFiles": [
     "README.md",
-    "软考-系统工程师/系统工程/系统工程概念.md",
+    "软考-系统架构设计师/系统工程/系统工程概念.md",
     "Hello World.md",
-    "软考-系统工程师",
-    "软考-系统工程师/系统工程"
+    "软考-系统架构设计师",
+    "软考-系统架构设计师/系统工程"
   ]
 }
