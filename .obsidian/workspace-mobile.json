@@ -11,8 +11,12 @@
             "id": "5e42c5f4c05e563e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "软考-系统架构设计师/计算机硬件/计算机硬件组成.md"
+          }
         }
       }
     ],
@@ -123,13 +131,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7c46a59546630dd0",
+  "active": "5e42c5f4c05e563e",
   "lastOpenFiles": [
+    "软考-系统架构设计师/系统工程/系统工程概念.md",
+    "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
     "未命名",
     "软考-系统架构设计师",
-    "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
     "软考-系统架构设计师/计算机硬件",
-    "软考-系统架构设计师/系统工程/系统工程概念.md",
     "软考-系统架构设计师/系统工程/系统工程方法.md",
     "软考-系统架构设计师/系统工程",
     "/软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
