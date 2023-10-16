@@ -128,12 +128,21 @@
                 "file": "软考-系统架构设计师/计算机硬件/计算机硬件组成.md"
               }
             }
+          },
+          {
+            "id": "e050d051787d1444",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 294.5
   },
   "left-ribbon": {
     "hiddenItems": {
