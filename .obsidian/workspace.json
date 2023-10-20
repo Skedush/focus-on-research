@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bba61ee512c4eb96",
+        "id": "863910876a12b1d0",
         "type": "tabs",
         "children": [
           {
-            "id": "68b3dcc56b4fa94c",
+            "id": "db79bb1edcfd0d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,16 +154,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "68b3dcc56b4fa94c",
+  "active": "db79bb1edcfd0d88",
   "lastOpenFiles": [
-    "Pasted image 20231016171530.png",
-    "Pasted image 20231016171524.png",
     "软考-系统架构设计师/计算机硬件/校验码.md",
     "软考-系统架构设计师/计算机硬件/指令系统.md",
+    "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
+    "图片附件/img2.png",
+    "Pasted image 20231016171524.png",
+    "Pasted image 20231016171530.png",
     "图片附件/img1.png",
     "图片附件",
     "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
-    "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
     "软考-系统架构设计师/系统工程/系统工程方法.md",
     "软考-系统架构设计师/计算机硬件",
     "软考-系统架构设计师/系统工程/系统工程概念.md",
