@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "863910876a12b1d0",
+        "id": "aa14beef92ca4a24",
         "type": "tabs",
         "children": [
           {
-            "id": "db79bb1edcfd0d88",
+            "id": "4f0b1bb39de8c1b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/指令系统.md",
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/指令系统.md",
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/指令系统.md",
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/指令系统.md"
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md"
               }
             }
           },
@@ -154,10 +154,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "db79bb1edcfd0d88",
+  "active": "4f0b1bb39de8c1b3",
   "lastOpenFiles": [
-    "软考-系统架构设计师/计算机硬件/校验码.md",
+    "图片附件/img3.png",
+    "软考-系统架构设计师/计算机硬件/存储系统.md",
     "软考-系统架构设计师/计算机硬件/指令系统.md",
+    "软考-系统架构设计师/计算机硬件/校验码.md",
     "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
     "图片附件/img2.png",
     "Pasted image 20231016171524.png",
