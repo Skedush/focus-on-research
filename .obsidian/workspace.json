@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aa14beef92ca4a24",
+        "id": "e572287ee4f1d1b7",
         "type": "tabs",
         "children": [
           {
-            "id": "4f0b1bb39de8c1b3",
+            "id": "698f90258eb9f8ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,25 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "软考-系统架构设计师/计算机硬件/存储系统.md"
-              }
-            }
-          },
-          {
-            "id": "e050d051787d1444",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,25 +138,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f0b1bb39de8c1b3",
+  "active": "698f90258eb9f8ee",
   "lastOpenFiles": [
-    "图片附件/img3.png",
-    "软考-系统架构设计师/计算机硬件/存储系统.md",
-    "软考-系统架构设计师/计算机硬件/指令系统.md",
-    "软考-系统架构设计师/计算机硬件/校验码.md",
+    "Hello World.md",
     "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
-    "图片附件/img2.png",
-    "Pasted image 20231016171524.png",
-    "Pasted image 20231016171530.png",
-    "图片附件/img1.png",
-    "图片附件",
+    "软考-系统架构设计师/计算机硬件/校验码.md",
+    "软考-系统架构设计师/计算机硬件/指令系统.md",
+    "软考-系统架构设计师/计算机硬件/存储系统.md",
     "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
+    "软考-系统架构设计师/系统工程/系统工程概念.md",
     "软考-系统架构设计师/系统工程/系统工程方法.md",
     "软考-系统架构设计师/计算机硬件",
-    "软考-系统架构设计师/系统工程/系统工程概念.md",
-    "README.md",
-    "Hello World.md",
+    "软考-系统架构设计师/系统工程",
     "软考-系统架构设计师",
-    "软考-系统架构设计师/系统工程"
+    "图片附件/img3.png",
+    "图片附件/img2.png",
+    "图片附件/img1.png",
+    "图片附件"
   ]
 }
