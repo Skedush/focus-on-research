@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96e11524b4669558",
+        "id": "532b3afbebb0f359",
         "type": "tabs",
         "children": [
           {
-            "id": "892d6734503dc6ad",
+            "id": "c0db42ea6dad63b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/校验码.md",
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/校验码.md",
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/校验码.md",
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/校验码.md"
+                "file": "软考-系统架构设计师/计算机硬件/存储系统.md"
               }
             }
           },
@@ -154,24 +154,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "892d6734503dc6ad",
+  "active": "c0db42ea6dad63b2",
   "lastOpenFiles": [
-    "gq2crn.md",
+    "软考-系统架构设计师/计算机硬件/指令系统.md",
     "软考-系统架构设计师/计算机硬件/校验码.md",
+    "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
+    "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
+    "gq2crn.md",
     "().md",
     "图片附件/img3.png",
     "图片附件/img2.png",
     "图片附件/img1.png",
     "gdpzap.md",
     "未命名.canvas",
-    "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
     "软考-系统架构设计师/计算机硬件/存储系统.md",
     "conflict-files-obsidian-git.md",
-    "软考-系统架构设计师/计算机硬件/指令系统.md",
     "Pasted image 20231016171524.png",
     "Pasted image 20231016171530.png",
     "图片附件",
-    "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
     "软考-系统架构设计师/系统工程/系统工程方法.md",
     "软考-系统架构设计师/计算机硬件",
     "软考-系统架构设计师/系统工程/系统工程概念.md",
