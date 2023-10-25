@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88115cce6e47d89c",
+        "id": "6886ac0ce236fa0e",
         "type": "tabs",
         "children": [
           {
-            "id": "edd88bae29206764",
+            "id": "48bc115d9877ac17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,10 +154,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edd88bae29206764",
+  "active": "48bc115d9877ac17",
   "lastOpenFiles": [
-    "图片附件/img3.png",
+    "未命名.canvas",
     "软考-系统架构设计师/计算机硬件/存储系统.md",
+    "图片附件/img3.png",
     "conflict-files-obsidian-git.md",
     "软考-系统架构设计师/计算机硬件/指令系统.md",
     "软考-系统架构设计师/计算机硬件/校验码.md",
