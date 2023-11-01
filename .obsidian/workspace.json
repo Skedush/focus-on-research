@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
+                "file": "软考-系统架构设计师/计算机硬件/校验码.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
+                "file": "软考-系统架构设计师/计算机硬件/校验码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
+                "file": "软考-系统架构设计师/计算机硬件/校验码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md"
+                "file": "软考-系统架构设计师/计算机硬件/校验码.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "1e3001cdd3684f7e",
   "lastOpenFiles": [
+    "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
     "2023-10-26.md",
     "软考-系统架构设计师/计算机硬件/校验码.md",
     "软考-系统架构设计师/计算机硬件/计算机硬件组成.md",
     "软考-系统架构设计师/计算机硬件/存储系统.md",
     "软考-系统架构设计师/计算机硬件/指令系统.md",
-    "软考-系统架构设计师/计算机硬件/中央处理单元CPU.md",
     "gq2crn.md",
     "().md",
     "图片附件/img3.png",
